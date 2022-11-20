@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="net.dean.jraw.JRAW" type="repository">
+    <properties maven-id="net.dean.jraw:JRAW:1.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JRAW-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/moshi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.2.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
